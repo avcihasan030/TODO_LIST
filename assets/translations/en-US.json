@@ -1,0 +1,7 @@
+{
+  "title": "What's your plan today?",
+  "empty_task_list": "Let's add a task!",
+  "add_task": "What's the task?",
+  "remove_task":"Task deleted!",
+  "not_match_found": "Not match found!"
+}
